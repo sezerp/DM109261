@@ -1,4 +1,4 @@
-jupyterlab > 2.0.0
+jupyterlab >= 2.0.0
 pandas >= 1.0.1
 numpy >= 1.18.1pip
 scikit-learn >= 0.22.2.post1
