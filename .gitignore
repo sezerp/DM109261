@@ -218,4 +218,4 @@ static
 
 # Jupyter lab specyfic pattern
 **/private*.ipynb
-**/Untitled.ipynb
+**/Untitled*.ipynb
