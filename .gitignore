@@ -219,3 +219,10 @@ static
 # Jupyter lab specyfic pattern
 **/private*.ipynb
 **/Untitled*.ipynb
+
+**/.ipynb_checkpoints/
+
+# data files
+
+**/*.csv
+**/*.p
