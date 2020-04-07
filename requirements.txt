@@ -3,3 +3,6 @@ pandas >= 1.0.1
 numpy >= 1.18.1pip
 scikit-learn >= 0.22.2.post1
 matplotlib >= 3.2.0
+ipywidgets
+tqdm >= 4.45.0
+requests
